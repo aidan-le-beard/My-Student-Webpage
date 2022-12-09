@@ -10,4 +10,4 @@ My webpage created for Internet Programming with specifications such as using CS
 
 Save all files and open index.html in a browser such as Chrome. 
 
-To use the "Assignment 5" button, Assignment_5.py must be correctly integrated as a CGI script using a web server that can use CGI scripts, such as Apache.
+To use the "Assignment 5" verify button, Assignment_5.py must be correctly integrated as a CGI script using a web server that can use CGI scripts, such as Apache.
